@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_14889_��ŸƮ�͸�ũ {
+public class BOJ_14889_스타트와링크 {
 	static int N, map[][];
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
