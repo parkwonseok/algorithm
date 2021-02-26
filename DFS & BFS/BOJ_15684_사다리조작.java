@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_15684_ {
+public class BOJ_15684_사다리조작 {
 	static int N, M, H, answer = Integer.MAX_VALUE;
 	static boolean[][] ladder;
 
