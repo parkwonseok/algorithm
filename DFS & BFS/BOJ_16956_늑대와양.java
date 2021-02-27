@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class BOJ_16956_´Á´ë¿Í¾ç {
+public class BOJ_16956_ëŠ‘ëŒ€ì™€ì–‘ {
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(in.readLine());
