@@ -53,5 +53,5 @@ public class BOJ_16956_늑대와양 {
 		} else {
 			System.out.println("0");
 		}
-	}
+	 }
 }
