@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class BOJ_13459_±∏ΩΩ≈ª√‚ {
+public class BOJ_13459_ {
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(in.readLine());
