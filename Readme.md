@@ -6,3 +6,4 @@
 - Day5 : [늑대와 양](https://www.acmicpc.net/problem/16956)<img src="./images/silver5.JPG" height="17" width="17"> / [안전 영역](https://www.acmicpc.net/problem/2468)<img src="./images/silver1.JPG" height="17" width="17">
 - Day6 : [상범 빌딩](https://www.acmicpc.net/problem/6593)<img src="./images/gold5.JPG" height="17" width="17">
 - Day7 : [구슬 탈출](https://www.acmicpc.net/problem/13459)<img src="./images/gold3.JPG" height="17" width="17"> / [구슬 탈출2](https://www.acmicpc.net/problem/13460)<img src="./images/gold2.JPG" height="17" width="17">
+- Day8 : [숨바꼭질2](https://www.acmicpc.net/problem/12851)<img src="./images/gold5.JPG" height="17" width="17"> / [숨바꼭질4](https://www.acmicpc.net/problem/13913)<img src="./images/gold4.JPG" height="17" width="17">
