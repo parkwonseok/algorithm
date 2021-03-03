@@ -7,3 +7,4 @@
 - Day6 : [상범 빌딩](https://www.acmicpc.net/problem/6593)<img src="./images/gold5.JPG" height="17" width="17">
 - Day7 : [구슬 탈출](https://www.acmicpc.net/problem/13459)<img src="./images/gold3.JPG" height="17" width="17"> / [구슬 탈출2](https://www.acmicpc.net/problem/13460)<img src="./images/gold2.JPG" height="17" width="17">
 - Day8 : [숨바꼭질2](https://www.acmicpc.net/problem/12851)<img src="./images/gold5.JPG" height="17" width="17"> / [숨바꼭질4](https://www.acmicpc.net/problem/13913)<img src="./images/gold4.JPG" height="17" width="17">
+- Day9 : [구슬탈출4](https://www.acmicpc.net/problem/15653)<img src="./images/gold2.JPG" height="17" width="17"> / [숫자판 펌프](https://www.acmicpc.net/problem/2210)<img src="./images/silver2.JPG" height="17" width="17">
