@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class BOJ_2210_¼ıÀÚÆÇÆßÇÁ {
+public class BOJ_2210_ìˆ«ìíŒíŒí”„ {
 	static int[][] board = new int[5][5];
 	static Set<Integer> set = new HashSet<>();
 	static int[] dx = { 0, 1, 0, -1 };
