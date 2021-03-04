@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_1780_Á¾ÀÌÀÇ°³¼ö {
+public class BOJ_1780_ì¢…ì´ì˜ê°œìˆ˜ {
 	static int[][] map;
 	static int[] cnt = new int[3];
 	
