@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class BOJ_14502_¿¬±¸¼Ò {
+public class BOJ_14502_ì—°êµ¬ì†Œ {
 	static int N, M, max = Integer.MIN_VALUE;
 	static int[][] map;
 	static int[][] copyMap;
