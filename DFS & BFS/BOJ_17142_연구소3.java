@@ -8,7 +8,7 @@ import java.util.Deque;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class BOJ_17142_¿¬±¸¼Ò3 {
+public class BOJ_17142_ì—°êµ¬ì†Œ3 {
 	static int N, M, map[][], dis[][], vLen, idx[], min = Integer.MAX_VALUE;
 	static List<int[]> vList = new ArrayList<>();
 	static int[] dx = { 0, 1, 0, -1 };
